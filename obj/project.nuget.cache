@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwAF4OYKiU4=",
+  "success": true,
+  "projectFilePath": "/Users/sowmya/PiechartApp/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sowmya/.nuget/packages/harfbuzzsharp/7.3.0.3/harfbuzzsharp.7.3.0.3.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/harfbuzzsharp.nativeassets.linux/7.3.0.3/harfbuzzsharp.nativeassets.linux.7.3.0.3.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/harfbuzzsharp.nativeassets.macos/7.3.0.3/harfbuzzsharp.nativeassets.macos.7.3.0.3.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/harfbuzzsharp.nativeassets.win32/7.3.0.3/harfbuzzsharp.nativeassets.win32.7.3.0.3.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/oxyplot.core/2.2.0/oxyplot.core.2.2.0.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/oxyplot.skiasharp/2.2.0/oxyplot.skiasharp.2.2.0.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/scottplot/5.0.56/scottplot.5.0.56.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/skiasharp/2.88.9/skiasharp.2.88.9.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/skiasharp.harfbuzz/2.88.9/skiasharp.harfbuzz.2.88.9.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/skiasharp.nativeassets.linux.nodependencies/2.88.9/skiasharp.nativeassets.linux.nodependencies.2.88.9.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/skiasharp.nativeassets.macos/2.88.9/skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",
+    "/Users/sowmya/.nuget/packages/skiasharp.nativeassets.win32/2.88.9/skiasharp.nativeassets.win32.2.88.9.nupkg.sha512"
+  ],
+  "logs": []
+}
